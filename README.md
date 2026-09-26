@@ -1,2 +1,1 @@
-# api_final
-api final
+REST API проект на Python (предположительно Django REST Framework) под названием api_final, связанный с проектом Yatube. Содержит директорию yatube_api с кодом приложения, папки tests и postman_collection для тестирования, а также файлы requirements.txt, pytest.ini, setup.cfg и README.md. Для запуска требуется Python 3.x: клонируйте репозиторий, установите зависимости командой pip install -r requirements.txt, выполните миграции и запустите сервер разработки. Тестирование проводится через pytest.
